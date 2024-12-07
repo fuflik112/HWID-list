@@ -1,4 +1,2 @@
 https://raw.githubusercontent.com/fuflik112/HWID-list/refs/heads/main/hwid-list.txt
-4431F78F1975777C167CE39376205704793F3CD9EFC13D5DC65302DC6B99674C
-https://raw.githubusercontent.com/fuflik112/HWID-list/refs/heads/main/hwid-list.txt
-https://raw.githubusercontent.com/fuflik112/HWID-list/refs/heads/main/hwid-list.txt
+4431F78F1975777C167CE39376205704793F3CD9EFC13D5DC65302DC6B996
